@@ -1,4 +1,4 @@
 @echo off
 echo Running second batch file...
-start "" "C:\Users\vaibh\OneDrive\Desktop\kogger\dist\dist\logger.exe"
+start "" "\logger.exe"
 echo Second batch file completed.
